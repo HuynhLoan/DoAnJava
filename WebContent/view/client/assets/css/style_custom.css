@@ -1,0 +1,75 @@
+/* custom css by Loan */
+div#comment {
+    float: left;
+    border-top: 1px solid #ccc;
+    font-size: 16px;
+    display: inline;
+    width: 100%;
+}
+li#myTab{
+	font-size: 20px;
+}
+.tab-comment {
+    background-color: #ffffff;
+    /* font-family: "Lato", sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+    font-size: 16px;
+    overflow-x: hidden;
+}
+.aa-products-tab li a{
+	font-size: 20px;
+}
+.medi:first-child {
+    margin-top: 0;
+}
+.medi, .medi-body {
+    overflow: hidden;
+    zoom: 1;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.aa-comment-nav li .medi-body {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.medi-left, .medi-right, .medi-body {
+    display: table-cell;
+    vertical-align: top;
+}
+.medi-body {
+    width: 10000px;
+}
+.medi, .medi-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.aa-comment-nav li{
+	margin-bottom: 20px;
+}
+.aa-comment-rating span {
+    color: #ff6600;
+}
+.aa-comment-form {
+    margin-top: 20px;
+}
+.aa-comment-submit {
+    border-radius: 0;
+    font-size: 18px;
+    height: 45px;
+    text-transform: uppercase;
+    width: 100%;
+    color: #fff;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.aa-comment-submit {
+    background-color: #754110;
+    border-color: #754110;
+}
